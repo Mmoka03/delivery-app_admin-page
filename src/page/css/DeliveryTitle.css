@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+main .title {
+    margin-top: 50px;
+    text-align: center;
+}
+main span {
+    display: block;
+    padding-left: 20px;
+    text-align: center;
+}
+main span b {
+    font-size: 1.2em;
+}
